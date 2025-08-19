@@ -1,1 +1,2 @@
-# 3DmodelViewer
+BLGファイルをAR表示、3D表示するツール
+7－14まで。
